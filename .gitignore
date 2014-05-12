@@ -6,6 +6,9 @@
 *.user
 *.sln.docstates
 
+# Node Modules
+[Nn]ode_modules/
+
 # Build results
 
 [Dd]ebug/
